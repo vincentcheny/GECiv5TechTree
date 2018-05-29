@@ -1,0 +1,8 @@
+<GameData>
+  <Resources>
+    <Update>
+      <Set TechReveal="TECH_GEOLOGY" />
+      <Where Type="RESOURCE_ARTIFACTS" />
+    </Update>
+  </Resources>
+</GameData>

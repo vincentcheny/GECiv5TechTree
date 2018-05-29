@@ -1,0 +1,977 @@
+<GameData>
+  <Language_en_US>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INTERNATIONALTRADEROUTESCHANGE_TECH_ENGINEERING</Tag>
+      <Text>TradeRoute1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_BRIDGEBUILDING_TECH_ENGINEERING</Tag>
+      <Text>BridgesOnRivers</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INTERNATIONALTRADEROUTESCHANGE_TECH_BIOLOGY</Tag>
+      <Text>TradeRoute1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_EMBARKEDMOVECHANGE_TECH_STEAM_POWER</Tag>
+      <Text>EmbarkSpeed1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INTERNATIONALTRADEROUTESCHANGE_TECH_RAILROAD</Tag>
+      <Text>TradeRoute1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_RESEARCHAGREEMENTTRADINGALLOWED_TECH_EDUCATION</Tag>
+      <Text>ResearchAgreements</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_DEFENSIVEPACTTRADINGALLOWED_TECH_CHIVALRY</Tag>
+      <Text>DefPact</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INTERNATIONALTRADEROUTESCHANGE_TECH_COMPASS</Tag>
+      <Text>TradeRoute1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_OPENBORDERSTRADINGALLOWED_TECH_CIVIL_SERVICE</Tag>
+      <Text>OpenBorders</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_EMBARKEDMOVECHANGE_TECH_ASTRONOMY</Tag>
+      <Text>EmbarkSpeed1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_EMBARKEDALLWATERPASSAGE_TECH_ASTRONOMY</Tag>
+      <Text>OceanCross</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_ALLOWSWORLDCONGRESS_TECH_PRINTING_PRESS</Tag>
+      <Text>WorldCongress</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INTERNATIONALTRADEROUTESCHANGE_TECH_BANKING</Tag>
+      <Text>TradeRoute1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INTERNATIONALTRADEROUTESCHANGE_TECH_PENICILIN</Tag>
+      <Text>TradeRoute1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_ALLOWSEMBARKING_TECH_OPTICS</Tag>
+      <Text>Embark</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_ALLOWEMBASSYTRADINGALLOWED_TECH_WRITING</Tag>
+      <Text>Embassy</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INTERNATIONALTRADEROUTESCHANGE_TECH_ANIMAL_HUSBANDRY</Tag>
+      <Text>TradeRoute1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INTERNATIONALTRADEROUTESCHANGE_TECH_SAILING</Tag>
+      <Text>TradeRoute1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_MAPVISIBLE_TECH_SATELLITES</Tag>
+      <Text>RevealMap</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_EXTRAVOTESPERDIPLOMAT_TECH_GLOBALIZATION</Tag>
+      <Text>ExtraVotesPerDiplomat1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INFLUENCESPREADMODIFIER_TECH_INTERNET</Tag>
+      <Text>TourismBy100</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_POTTERY_CIV</Tag>
+      <Text>Pottery is one of the oldest and most useful of all of the arts. In pottery, objects are built out of clay and then placed in an oven and subjected to extremely high temperatures. The resulting product is extremely brittle but is also airtight and virtually impervious to corrosion, oxidation, infestation, and the other destructive forces that would attack items made of metal, wood or cloth. The earliest pottery objects include jugs and containers to hold liquids or grains, as well as cooking pots, serving bowls, plates, and cups.[NEWLINE][NEWLINE]The first kind of pottery discovered was earthenware, dating back some 9,000 years. This pottery is somewhat porous and is usually covered with a more watertight material (called "slip"), or it can be glazed. Earthenware pottery is extremely durable and remains in wide use today. Stoneware is pottery that has been baked ("fired") at extremely high temperatures until the clay is "vitrified" - glasslike and nonporous. This process was discovered in China around 1400 BC. Porcelain was invented in China around the sixth century AD. It is similar to stoneware (in fact, a line of demarcation between the two is open to debate), but porcelain products are generally more translucent and delicate.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_CALENDAR_CIV</Tag>
+      <Text>A calendar is a method of keeping track of the days. In many ancient cultures calendars served both religious and practical purposes: certain days of the year were dedicated to the worship of certain deities, and it was very bad to offend the gods by failing to give them their due. More prosaically, of course, calendars allowed people to track the weather in an area, telling them when to plant crops, when to harvest, and so forth.[NEWLINE][NEWLINE]The Egyptians appear to have developed the first practical calendar, and this was appropriated and further refined by the Romans into the Julian calendar. The Gregorian calendar that is almost universally used today was based on the Julian calendar. Proclaimed in 1582 by Pope Gregory XIII, the Gregorian calendar more accurately defines a solar year, correcting a slight inaccuracy in the Julian. In the Julian calendar a solar year was 365 days and 6 hours in length, while in the Gregorian calendar the year was 12 minutes shorter, or 365 days, 5 hours and 48 minutes. This error accumulated over the centuries, and by Gregory's day the Julian calendar was 14 days out of sync with the seasons.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_PHILOSOPHY_CIV</Tag>
+      <Text>Philosophy is the study of reality and man's place in it. The word comes from the Greek/Latin "philosophia," or love of wisdom. It is somewhat separate from religion, which seeks to define and understand some supernatural system - philosophy takes a step back and asks if that supernatural system even exists. Philosophy deals with logic, morality, observation, realism, happiness, life, death, and all of the other big questions.[NEWLINE][NEWLINE]The Greeks are generally credited with the invention of philosophy in western civilization. In the 6th century BC Thales of Miletus was the first man known to give a purely natural (non-religious) explanation for the origin of the world. He believed that everything came out of water; this theory was based upon his viewing of fossilized sea animals far inland. This explanation required no creative action by a supernatural being; it was a result of natural properties. Later philosophers would expand upon this most basic theory - except of course for those philosophers who chose to deny that anything exists at all, and those who decided that the world was but a reflection of some other place anyway, and so forth. The problem with examining reality is that the deeper one looks, the more confusing everything gets.[NEWLINE][NEWLINE]At its best, philosophy provides tools which one can use to observe and make judgments about the world around them, to think about things that haven't been considered before. Like any other tool it can be used for good or for evil, but philosophy at least seeks to provide the intellectual structure to help one decide which is which.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ENGINEERING_CIV</Tag>
+      <Text>Engineering is the science (or art perhaps) of designing complex materials, structures, devices, and systems. In modern parlance it has a fairly wide reach - bioengineers design cells, software engineers create computer programs, and so forth - but historically the term was applied to the construction of physical stuff, like machines, bridges, railroads, factories, and so forth. (Originally the term "engineer" referred specifically to those who created military engines.)[NEWLINE][NEWLINE]Engineering came into its own in the 19th century, as countries around the world embarked on huge construction projects. Completed by the French in 1869, the Suez Canal connected the Mediterranean Sea and the Red Sea, making it possible to sail from Europe to India without the long and arduous journey around Africa. The United States completed the transcontinental railroad in the same year, and the Brooklyn Bridge was constructed in 1883.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GUILDS_CIV</Tag>
+      <Text>In pre-industrial cities, craftsmen tended to form associations - or trade guilds - based upon their profession; these guilds were intended to both protect craft secrets as well as promote the influence and income of the craftsmen. Predecessors of the trade guilds were found as early as the 3rd Century BC in Rome and Han China. By 300 AD, the practice of craftsmen banding together had spread into Gupta India and Ptolemaic Egypt. In the Middle Ages, guild organizations spread rapidly from Italy throughout Europe; 12th Century records in Paris and London each list over 100 guilds chartered by the cities. In some cases, so powerful were some guilds that they became the governing body of cities, indicated by the guildhalls found in Germany, Switzerland and Holland.[NEWLINE][NEWLINE]Over time, the guilds took on the task of safeguarding quality and of instruction in the craft, with a life-long progression from apprentice to grandmaster. To insure product quality, the system of trademarks indicating that the item had passed both guild and government standards evolved. However, over time the influence and power of the guilds declined as they fragmented with the coming of new trades, government concerns, and mass production methods. In France, for instance, the guilds were abolished in 1791 AD by the Le Chapelier Law; other countries followed soon did the same. Although largely supplanted by unions in the Industrial Age, there are still examples of guilds in existence, notably in the realms of film, literature and other artistic professions.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_CHEMISTRY_CIV</Tag>
+      <Text>The offspring of alchemy and mathematics, Chemistry is the science of matter, its structure, behavior, composition, and how it behaves during chemical reactions. Physicists drop balls off of towers and time how long it takes them to fall; chemists study the balls themselves and try to figure out why some shatter and some bounce.[NEWLINE][NEWLINE]While scientists, doctors and philosophers have been interested in chemistry throughout history, it achieved the dignified status of science in 1789, when Antoine Lavoisier published a paper describing the law of conservation of mass. In "Elements of Chemistry," Lavoisier discovered the composition of air and water, coining the term "oxygen." He also debunked the phlogiston theory, which had been hanging around confusing scientists for over 100 years.[NEWLINE][NEWLINE]Lavoisier is considered the father of modern chemistry. His example led other chemists to employ scientific methods to the study of chemicals. By so doing, they were able to disprove theories that had been taken as gospel since they were put forth by the Greeks thousands of years ago.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_FUTURE_TECH_CIV</Tag>
+      <Text>It's difficult to write a "history" for technology that hasn't actually been discovered yet. But here are some possible big breakthroughs that might dramatically alter the human condition. Sooner or later, medicine will figure out how to cure cancer and other diseases, dramatically increase human life, and directly interface the human brain with machines. Cheap, clean forms of energy will be discovered. Computers will get faster and smaller. Games will get more immersive and realistic. Nasty new weapons will be invented. And a giant killer death robot will be created to destroy all life on the planet, but we will be saved by an army of mutant kung fu cyborgs. The future will indeed be interesting! </Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_NUCLEAR_FISSION_CIV</Tag>
+      <Text>Nuclear fission is a nuclear reaction in which the nuclei of radioactive atoms break down (undergo fission), releasing neutrons which then crash into other atoms, causing them to break down and release even more neutrons. If there is enough radioactive material the fission may become self-sustaining, releasing a lot of energy at a controlled rate - say, in a nuclear reactor - or in a wildly uncontrolled rate - say, in a nuclear weapon.[NEWLINE][NEWLINE]Nuclear fission produces a lot of energy - many millions of times more than say an equal weight of gasoline - but in the process it produces a good deal of very hard to manage waste. Also, it can kill people: fairly slowly, if they're exposed to the radioactive material, or extremely rapidly if the chain reaction gets out of hand and the material explodes.[NEWLINE][NEWLINE]Nuclear fission occurs rarely in nature, with the last known episode on Earth occurring some 2 billion years ago. Since then the fissile material has decayed, making natural fission all but impossible on this planet.[NEWLINE][NEWLINE]In 1917 New Zealander Ernest Rutherford was the first man to split the atom. In 1934 Italian Enrico Fermi experimented with bombarding uranium with neutrons. In the same year Ida Noddack postulated the idea of nuclear fission - ie, a sustained nuclear reaction. In 1938 German chemists Otto Hahn and Fritz Strassmann successfully created the first actual nuclear chain reaction.[NEWLINE][NEWLINE]With the onset of World War II, the race to create a nuclear bomb went into high gear. After receiving a letter describing the potential deadliness of a nuclear weapon from refugees Albert Einstein and Leo Szilard, American President Franklin Roosevelt formed a scientific and military task force to create such a weapon ahead of the Germans, who were also known to be looking at the problem. Scientists from the United States, Canada and the United Kingdom worked cooperatively on the weapon, in a project codenamed "The Manhattan Project."[NEWLINE][NEWLINE]After five long hard years of feverish work, the Manhattan Project scientists successfully created and tested a nuclear weapon. On August 6 and 9, 1945, the United States of America dropped atomic bombs on the Japanese cities of Hiroshima and Nagasaki. The initial blasts killed approximately 120,000 Japanese within the first day, with another equal amount dying in the following three months of burns, radiation poisoning, and other traumatic injuries. Japan surrendered unconditionally on August 15, 1945.[NEWLINE][NEWLINE]In the years since the Second World War, no other atomic bombs have been deployed in battle (though many have been tested). The United States, Russia, England, and France still have large nuclear stockpiles (with the US and Russia holding the vast majority), while countries like China, Israel, Pakistan, India, and North Korea have also joined the "nuclear club." Currently the US is strenuously attempting to keep Iran from developing these weapons but the ultimate success or failure of this effort is yet unknown.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ADVANCED_BALLISTICS_CIV</Tag>
+      <Text>Ballistics is the science of shooting or throwing stuff great distances with great precision. Advanced ballistics is more of the same, with the distances increased to continent-spanning scale. Modern artillerists can shoot explosive rounds dozens of miles with great accuracy, and missiles can be fired at precise targets half-way around the planet. When embellishments like GPS and laser guidance are included, there is virtually no target anywhere in the world that can't be hit by some weapon somewhere. Whether this is a good thing is open to debate; it largely depends upon whose finger is on the firing button.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HUNTING_DESC</Tag>
+      <Text>Hunting</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HUNTING_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HUNTING_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HUNTING_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_CRAFTING_DESC</Tag>
+      <Text>Crafting</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_CRAFTING_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_CRAFTING_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_CRAFTING_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MYSTICISM_DESC</Tag>
+      <Text>Mysticism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MYSTICISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MYSTICISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MYSTICISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ARITHMETIC_DESC</Tag>
+      <Text>Arithmetic</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ARITHMETIC_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ARITHMETIC_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ARITHMETIC_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ASTROLOGY_DESC</Tag>
+      <Text>Astrology</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ASTROLOGY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ASTROLOGY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ASTROLOGY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_NUMEROLOGY_DESC</Tag>
+      <Text>Numerology</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_NUMEROLOGY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_NUMEROLOGY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_NUMEROLOGY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GEOMETRY_DESC</Tag>
+      <Text>Geometry</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GEOMETRY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GEOMETRY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GEOMETRY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_LAW_DESC</Tag>
+      <Text>Law</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_LAW_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_LAW_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_LAW_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_METAPHYSICS_DESC</Tag>
+      <Text>Metaphysics</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_METAPHYSICS_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_METAPHYSICS_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_METAPHYSICS_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ASSOCIATIVE_THINKING_DESC</Tag>
+      <Text>Associative Thinking</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ASSOCIATIVE_THINKING_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ASSOCIATIVE_THINKING_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ASSOCIATIVE_THINKING_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COLLECTIVISM_DESC</Tag>
+      <Text>Collectivism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COLLECTIVISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COLLECTIVISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COLLECTIVISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HYDROLOGY_DESC</Tag>
+      <Text>Hydrology</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HYDROLOGY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HYDROLOGY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HYDROLOGY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_PHBLIC_ENTERTAINMENT_DESC</Tag>
+      <Text>Phblic Entertainment</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_PHBLIC_ENTERTAINMENT_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_PHBLIC_ENTERTAINMENT_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_PHBLIC_ENTERTAINMENT_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_RITUAL_DESC</Tag>
+      <Text>Ritual</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_RITUAL_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_RITUAL_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_RITUAL_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HERBAL_MEDICINE_DESC</Tag>
+      <Text>Herbal Medicine</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HERBAL_MEDICINE_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HERBAL_MEDICINE_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_HERBAL_MEDICINE_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MATHEMATIZATION_DESC</Tag>
+      <Text>Mathematization</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MATHEMATIZATION_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MATHEMATIZATION_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MATHEMATIZATION_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QIGONG_DESC</Tag>
+      <Text>Qigong</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QIGONG_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QIGONG_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QIGONG_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SCIENTIFIC_METHOD_DESC</Tag>
+      <Text>Scientific Method</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SCIENTIFIC_METHOD_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SCIENTIFIC_METHOD_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SCIENTIFIC_METHOD_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_JOURNALISM_DESC</Tag>
+      <Text>Journalism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_JOURNALISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_JOURNALISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_JOURNALISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_LIBERALISM_DESC</Tag>
+      <Text>Liberalism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_LIBERALISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_LIBERALISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_LIBERALISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_EXPERIMENTALISM_DESC</Tag>
+      <Text>Experimentalism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_EXPERIMENTALISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_EXPERIMENTALISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_EXPERIMENTALISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_CALCULUS_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SOCIAL_CONTRACT_DESC</Tag>
+      <Text>Social Contract</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SOCIAL_CONTRACT_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SOCIAL_CONTRACT_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SOCIAL_CONTRACT_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MECHANICS_DESC</Tag>
+      <Text>Mechanics</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MECHANICS_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MECHANICS_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MECHANICS_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_WAVE_THEORY_DESC</Tag>
+      <Text>Wave Theory</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_WAVE_THEORY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_WAVE_THEORY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_WAVE_THEORY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GEOLOGY_DESC</Tag>
+      <Text>Geology</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GEOLOGY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GEOLOGY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GEOLOGY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MATHEMATICAL_ANALYSIS_DESC</Tag>
+      <Text>Mathematical Analysis</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MATHEMATICAL_ANALYSIS_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MATHEMATICAL_ANALYSIS_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MATHEMATICAL_ANALYSIS_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_DEMOCRACY_DESC</Tag>
+      <Text>Democracy</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_DEMOCRACY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_DEMOCRACY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_DEMOCRACY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_STATISTICS_DESC</Tag>
+      <Text>Statistics</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_STATISTICS_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_STATISTICS_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_STATISTICS_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MICROORGANISM_DESC</Tag>
+      <Text>Microorganism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MICROORGANISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MICROORGANISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MICROORGANISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COMMUNISM_DESC</Tag>
+      <Text>Communism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COMMUNISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COMMUNISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COMMUNISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_EUGENTIC_DESC</Tag>
+      <Text>Eugentic</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_EUGENTIC_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_EUGENTIC_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_EUGENTIC_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ELECTROMAGNETISM_DESC</Tag>
+      <Text>Electromagnetism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ELECTROMAGNETISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ELECTROMAGNETISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ELECTROMAGNETISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_FORMAL_LOGIC_DESC</Tag>
+      <Text>Formal Logic</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_FORMAL_LOGIC_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_FORMAL_LOGIC_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_FORMAL_LOGIC_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_PESTICIDES_DESC</Tag>
+      <Text>Pesticides</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_PESTICIDES_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_PESTICIDES_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_PESTICIDES_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_FASCISM_DESC</Tag>
+      <Text>Fascism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_FASCISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_FASCISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_FASCISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ENVIRONMENTALISM_DESC</Tag>
+      <Text>Environmentalism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ENVIRONMENTALISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ENVIRONMENTALISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ENVIRONMENTALISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GENETICS_DESC</Tag>
+      <Text>Genetics</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GENETICS_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GENETICS_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_GENETICS_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_RELATIVITY_DESC</Tag>
+      <Text>Relativity</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_RELATIVITY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_RELATIVITY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_RELATIVITY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QUANTUM_MECHANICS_DESC</Tag>
+      <Text>Quantum Mechanics</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QUANTUM_MECHANICS_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QUANTUM_MECHANICS_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QUANTUM_MECHANICS_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SCIENTISM_DESC</Tag>
+      <Text>Scientism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SCIENTISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SCIENTISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SCIENTISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COMPUTATION_THEORY_DESC</Tag>
+      <Text>Computation Theory</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COMPUTATION_THEORY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COMPUTATION_THEORY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_COMPUTATION_THEORY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MOLECULAR_BIOTECH_DESC</Tag>
+      <Text>Molecular Biotech</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MOLECULAR_BIOTECH_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MOLECULAR_BIOTECH_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MOLECULAR_BIOTECH_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_DESC</Tag>
+      <Text>Artificial Intelligence</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_DIGITAL_CRYPTOGRAPHY_DESC</Tag>
+      <Text>Digital Cryptography</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_DIGITAL_CRYPTOGRAPHY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_DIGITAL_CRYPTOGRAPHY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_DIGITAL_CRYPTOGRAPHY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SOCIAL_MEDIA_DESC</Tag>
+      <Text>Social Media</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SOCIAL_MEDIA_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SOCIAL_MEDIA_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_SOCIAL_MEDIA_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_POPULISM_DESC</Tag>
+      <Text>Populism</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_POPULISM_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_POPULISM_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_POPULISM_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QUEER_THEORY_DESC</Tag>
+      <Text>Queer Theory</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QUEER_THEORY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QUEER_THEORY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_QUEER_THEORY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_CONSTRUCTION_CIV</Tag>
+      <Text>Construction represents the advancement of the study of masonry, primarily by adding iron and other metals to the builder's toolbox. Although remarkably durable, stone and brick are also quite heavy and inflexible. It's impossible to construct very tall structures out of these materials - unless the structure in question is solid stone or brick and is pyramid-shaped - otherwise they will collapse under their own weight or in the face of a strong wind.[NEWLINE][NEWLINE]Metal structures, on the other hand, or masonry reinforced with metal - can be quite tall and beautiful, and structurally sound. Using metal one can create soaring bridges, deep tunnels, great skyscrapers and elevated roadways. Without construction none of the world's great cities could exist, nor could its most beautiful architecture.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MARKET_ECONOMY_DESC</Tag>
+      <Text>Market Economy</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MARKET_ECONOMY_CIV</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MARKET_ECONOMY_HELP</Tag>
+      <Text>Added using Indie Stone Tech Tree Editor.</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MARKET_ECONOMY_QUOTE</Tag>
+      <Text>'Some Famous Quote' - Some Famous Person</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_MATHEMATICS_CIV</Tag>
+      <Text>Mathematics may be defined as the science of order, structure and relation that has evolved from counting, measuring and describing objects and their shapes. Mathematics is the most basic building block upon which all physical science is based. The Sumerians had a remarkably robust and complex mathematical system which was "base-ten" (like the modern system) and "base-60" as well. Remnants of the "base-60" system survive today primarily in modern time-keeping - 60 seconds to the minute, 60 minutes to the hour.[NEWLINE][NEWLINE]The Egyptians had a somewhat simpler system, developed by the scribes/tax collectors, which was capable of performing the calculations needed to support huge engineering works like the pyramids (plus, one assumes, to keep track of uncollected taxes). The Greeks divided mathematics into two spheres, "arithmetic," the study of quantity, and "geometry," the study of magnitude, or area. Their primary contribution, however, lay in the application of theory and proof to mathematics. Previous mathematical systems were based upon measurement and observation of the real world, while the Greeks looked for the mathematical rules behind the reality.[NEWLINE][NEWLINE]The Islamic world added much to mathematics in the 8th to 15th centuries AD. Perhaps most important was the invention of the decimal system for whole numbers, and the invention of the "0" (the number zero) some time around 600 AD in India. This replaced the extremely clunky and awkward "Roman" numerical system, which now survives only in horror movie sequel enumeration.[NEWLINE][NEWLINE]Mathematics has grown geometrically since its earliest beginnings, and through it man has split the atom, built the Internet, and constructed elaborate fantasy football leagues. Who knows what secrets it will unlock in the future?</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_INTERNATIONALTRADEROUTESCHANGE_TECH_METAL_CASTING</Tag>
+      <Text>TradeRoute1</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_FUNCTIONALITY_BRIDGEBUILDING_TECH_METAL_CASTING</Tag>
+      <Text>BridgesOnRivers</Text>
+    </Row>
+    <Row>
+      <Tag>TXT_KEY_TECH_ARCHAEOLOGY_CIV</Tag>
+      <Text>
+Archaeology is the study of the remnants of ancient people to learn about their culture, art, architecture, and history. Archaeologists study building ruins, burial mounds, trash heaps, ancient carvings hidden in caves, and long drowned ships on the bottom of the ocean.[NEWLINE][NEWLINE]Although people have no doubt been interested in the lives of those who came before them for as long as there have been people, archaeology as a science began in 15th century Renaissance Europe, when people began to study and emulate the art and architecture of Ancient Greece and Rome and the wealthy nobility of Italy - popes, merchants and heads of state - began to collect antiquities. As these became more scarce, they sponsored excavations to find more loot.[NEWLINE][NEWLINE]Archaeology was put on a more scientific basis in the 19th century through the efforts of German scholars like Heinrich Schliemann, who examined early Greek civilization in Troy and Mycenae.[NEWLINE][NEWLINE]Today archaeologists are studying every aspect of ancient humanity, from our earliest ancestor almost up to our great-great grandparents. Their tools are incredibly sophisticated, allowing ever more insight into the lives of our forebears.</Text>
+    </Row>
+    <Update>
+      <Set Text="Guilds" />
+      <Where Tag="TXT_KEY_TECH_GUILDS_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Advanced Ballistics" />
+      <Where Tag="TXT_KEY_TECH_ADVANCED_BALLISTICS_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Archaeology" />
+      <Where Tag="TXT_KEY_TECH_ARCHAEOLOGY_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Calculus" />
+      <Where Tag="TXT_KEY_TECH_CALCULUS_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Added using Indie Stone Tech Tree Editor." />
+      <Where Tag="TXT_KEY_TECH_CALCULUS_HELP" />
+    </Update>
+    <Update>
+      <Set Text="'Some Famous Quote' - Some Famous Person" />
+      <Where Tag="TXT_KEY_TECH_CALCULUS_QUOTE" />
+    </Update>
+    <Update>
+      <Set Text="Calendar" />
+      <Where Tag="TXT_KEY_TECH_CALENDAR_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Chemistry" />
+      <Where Tag="TXT_KEY_TECH_CHEMISTRY_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Construction" />
+      <Where Tag="TXT_KEY_TECH_CONSTRUCTION_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Engineering" />
+      <Where Tag="TXT_KEY_TECH_ENGINEERING_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Future Tech" />
+      <Where Tag="TXT_KEY_TECH_FUTURE_TECH_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Mathematics" />
+      <Where Tag="TXT_KEY_TECH_MATHEMATICS_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Nuclear Fission" />
+      <Where Tag="TXT_KEY_TECH_NUCLEAR_FISSION_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Philosophy" />
+      <Where Tag="TXT_KEY_TECH_PHILOSOPHY_DESC" />
+    </Update>
+    <Update>
+      <Set Text="Pottery" />
+      <Where Tag="TXT_KEY_TECH_POTTERY_DESC" />
+    </Update>
+  </Language_en_US>
+</GameData>

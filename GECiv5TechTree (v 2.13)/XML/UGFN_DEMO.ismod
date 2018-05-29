@@ -1,0 +1,19 @@
+<ISMod Prefix="">
+  <File>BuildingClasses.xml</File>
+  <File>Buildings.xml</File>
+  <File>Builds.xml</File>
+  <File>Civilizations.xml</File>
+  <File>Colors.xml</File>
+  <File>Concepts.xml</File>
+  <File>GameOptions.xml</File>
+  <File>GameText.xml</File>
+  <File>GenericFunctionalities.xml</File>
+  <File>HandicapInfos.xml</File>
+  <File>Improvements.xml</File>
+  <File>Leaders.xml</File>
+  <File>PlayerColors.xml</File>
+  <File>Resources.xml</File>
+  <File>Technologies.xml</File>
+  <File>Traits.xml</File>
+  <File>Units.xml</File>
+</ISMod>

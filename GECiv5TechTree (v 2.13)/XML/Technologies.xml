@@ -1,0 +1,2168 @@
+<GameData>
+  <HandicapInfo_FreeTechs>
+    <!-- TECH_POTTERY -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_POTTERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_POTTERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_POTTERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_POTTERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_POTTERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_POTTERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_POTTERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_POTTERY</TechType>
+    </Row>
+    <!-- TECH_ARCHERY -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_ARCHERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_ARCHERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_ARCHERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_ARCHERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_ARCHERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_ARCHERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_ARCHERY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_ARCHERY</TechType>
+    </Row>
+    <!-- TECH_MINING -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_MINING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_MINING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_MINING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_MINING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_MINING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_MINING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_MINING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_MINING</TechType>
+    </Row>
+    <!-- TECH_CALENDAR -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_CALENDAR</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_CALENDAR</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_CALENDAR</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_CALENDAR</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_CALENDAR</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_CALENDAR</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_CALENDAR</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_CALENDAR</TechType>
+    </Row>
+    <!-- TECH_TRAPPING -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_TRAPPING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_TRAPPING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_TRAPPING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_TRAPPING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_TRAPPING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_TRAPPING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_TRAPPING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_TRAPPING</TechType>
+    </Row>
+    <!-- TECH_MATHEMATICS -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_MATHEMATICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_MATHEMATICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_MATHEMATICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_MATHEMATICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_MATHEMATICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_MATHEMATICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_MATHEMATICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_MATHEMATICS</TechType>
+    </Row>
+    <!-- TECH_CONSTRUCTION -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_CONSTRUCTION</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_CONSTRUCTION</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_CONSTRUCTION</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_CONSTRUCTION</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_CONSTRUCTION</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_CONSTRUCTION</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_CONSTRUCTION</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_CONSTRUCTION</TechType>
+    </Row>
+    <!-- TECH_PHILOSOPHY -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_PHILOSOPHY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_PHILOSOPHY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_PHILOSOPHY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_PHILOSOPHY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_PHILOSOPHY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_PHILOSOPHY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_PHILOSOPHY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_PHILOSOPHY</TechType>
+    </Row>
+    <!-- TECH_ENGINEERING -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_ENGINEERING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_ENGINEERING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_ENGINEERING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_ENGINEERING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_ENGINEERING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_ENGINEERING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_ENGINEERING</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_ENGINEERING</TechType>
+    </Row>
+    <!-- TECH_PHYSICS -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_PHYSICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_PHYSICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_PHYSICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_PHYSICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_PHYSICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_PHYSICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_PHYSICS</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_PHYSICS</TechType>
+    </Row>
+    <!-- TECH_ARCHAEOLOGY -->
+    <Row>
+      <HandicapType>HANDICAP_SETTLER</HandicapType>
+      <TechType>TECH_ARCHAEOLOGY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_CHIEFTAIN</HandicapType>
+      <TechType>TECH_ARCHAEOLOGY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_WARLORD</HandicapType>
+      <TechType>TECH_ARCHAEOLOGY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_PRINCE</HandicapType>
+      <TechType>TECH_ARCHAEOLOGY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_KING</HandicapType>
+      <TechType>TECH_ARCHAEOLOGY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_EMPEROR</HandicapType>
+      <TechType>TECH_ARCHAEOLOGY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_IMMORTAL</HandicapType>
+      <TechType>TECH_ARCHAEOLOGY</TechType>
+    </Row>
+    <Row>
+      <HandicapType>HANDICAP_DEITY</HandicapType>
+      <TechType>TECH_ARCHAEOLOGY</TechType>
+    </Row>
+
+  </HandicapInfo_FreeTechs>
+  <Technology_PrereqTechs>
+    <Delete TechType="TECH_POTTERY" PrereqTech="TECH_AGRICULTURE" />
+    <Delete TechType="TECH_ANIMAL_HUSBANDRY" PrereqTech="TECH_AGRICULTURE" />
+    <Delete TechType="TECH_ARCHERY" PrereqTech="TECH_AGRICULTURE" />
+    <Delete TechType="TECH_MINING" PrereqTech="TECH_AGRICULTURE" />
+    <Delete TechType="TECH_SAILING" PrereqTech="TECH_POTTERY" />
+    <Delete TechType="TECH_CALENDAR" PrereqTech="TECH_POTTERY" />
+    <Delete TechType="TECH_WRITING" PrereqTech="TECH_POTTERY" />
+    <Delete TechType="TECH_TRAPPING" PrereqTech="TECH_ANIMAL_HUSBANDRY" />
+    <Delete TechType="TECH_THE_WHEEL" PrereqTech="TECH_ANIMAL_HUSBANDRY" />
+    <Delete TechType="TECH_THE_WHEEL" PrereqTech="TECH_ARCHERY" />
+    <Delete TechType="TECH_MASONRY" PrereqTech="TECH_MINING" />
+    <Delete TechType="TECH_BRONZE_WORKING" PrereqTech="TECH_MINING" />
+    <Delete TechType="TECH_PHILOSOPHY" PrereqTech="TECH_CALENDAR" />
+    <Delete TechType="TECH_PHILOSOPHY" PrereqTech="TECH_WRITING" />
+    <Delete TechType="TECH_HORSEBACK_RIDING" PrereqTech="TECH_TRAPPING" />
+    <Delete TechType="TECH_MATHEMATICS" PrereqTech="TECH_THE_WHEEL" />
+    <Delete TechType="TECH_CONSTRUCTION" PrereqTech="TECH_MASONRY" />
+    <Delete TechType="TECH_CONSTRUCTION" PrereqTech="TECH_THE_WHEEL" />
+    <Delete TechType="TECH_CURRENCY" PrereqTech="TECH_MATHEMATICS" />
+    <Delete TechType="TECH_ENGINEERING" PrereqTech="TECH_MATHEMATICS" />
+    <Delete TechType="TECH_ENGINEERING" PrereqTech="TECH_CONSTRUCTION" />
+    <Delete TechType="TECH_THEOLOGY" PrereqTech="TECH_PHILOSOPHY" />
+    <Delete TechType="TECH_METAL_CASTING" PrereqTech="TECH_ENGINEERING" />
+    <Delete TechType="TECH_COMPASS" PrereqTech="TECH_THEOLOGY" />
+    <Delete TechType="TECH_MACHINERY" PrereqTech="TECH_ENGINEERING" />
+    <Delete TechType="TECH_MACHINERY" PrereqTech="TECH_GUILDS" />
+    <Delete TechType="TECH_PHYSICS" PrereqTech="TECH_METAL_CASTING" />
+    <Delete TechType="TECH_ASTRONOMY" PrereqTech="TECH_EDUCATION" />
+    <Delete TechType="TECH_BANKING" PrereqTech="TECH_CHIVALRY" />
+    <Delete TechType="TECH_PRINTING_PRESS" PrereqTech="TECH_PHYSICS" />
+    <Delete TechType="TECH_PRINTING_PRESS" PrereqTech="TECH_CHIVALRY" />
+    <Delete TechType="TECH_GUNPOWDER" PrereqTech="TECH_PHYSICS" />
+    <Delete TechType="TECH_ARCHAEOLOGY" PrereqTech="TECH_NAVIGATION" />
+    <Delete TechType="TECH_ARCHAEOLOGY" PrereqTech="TECH_ARCHITECTURE" />
+    <Delete TechType="TECH_BIOLOGY" PrereqTech="TECH_ARCHAEOLOGY" />
+    <Delete TechType="TECH_RADIO" PrereqTech="TECH_ELECTRICITY" />
+    <Delete TechType="TECH_PENICILIN" PrereqTech="TECH_REFRIGERATION" />
+    <Delete TechType="TECH_PENICILIN" PrereqTech="TECH_PLASTIC" />
+    <Delete TechType="TECH_RADAR" PrereqTech="TECH_BALLISTICS" />
+    <Delete TechType="TECH_ATOMIC_THEORY" PrereqTech="TECH_PLASTIC" />
+    <Delete TechType="TECH_ATOMIC_THEORY" PrereqTech="TECH_ELECTRONICS" />
+    <Delete TechType="TECH_ECOLOGY" PrereqTech="TECH_ATOMIC_THEORY" />
+    <Delete TechType="TECH_ECOLOGY" PrereqTech="TECH_PENICILIN" />
+    <Delete TechType="TECH_NUCLEAR_FISSION" PrereqTech="TECH_ATOMIC_THEORY" />
+    <Delete TechType="TECH_NUCLEAR_FISSION" PrereqTech="TECH_RADAR" />
+    <Delete TechType="TECH_COMPUTERS" PrereqTech="TECH_RADAR" />
+    <Delete TechType="TECH_TELECOM" PrereqTech="TECH_ECOLOGY" />
+    <Delete TechType="TECH_MOBILE_TACTICS" PrereqTech="TECH_ECOLOGY" />
+    <Delete TechType="TECH_PARTICLE_PHYSICS" PrereqTech="TECH_TELECOM" />
+    <Delete TechType="TECH_PARTICLE_PHYSICS" PrereqTech="TECH_MOBILE_TACTICS" />
+    <Delete TechType="TECH_PARTICLE_PHYSICS" PrereqTech="TECH_ADVANCED_BALLISTICS" />
+    <Delete TechType="TECH_NUCLEAR_FUSION" PrereqTech="TECH_ADVANCED_BALLISTICS" />
+    <Delete TechType="TECH_NUCLEAR_FUSION" PrereqTech="TECH_SATELLITES" />
+    <Delete TechType="TECH_NANOTECHNOLOGY" PrereqTech="TECH_ROBOTICS" />
+    <Delete TechType="TECH_FUTURE_TECH" PrereqTech="TECH_INTERNET" />
+    <Delete TechType="TECH_FUTURE_TECH" PrereqTech="TECH_GLOBALIZATION" />
+    <Delete TechType="TECH_FUTURE_TECH" PrereqTech="TECH_PARTICLE_PHYSICS" />
+    <Row>
+      <TechType>TECH_CRAFTING</TechType>
+      <PrereqTech>TECH_HUNTING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ANIMAL_HUSBANDRY</TechType>
+      <PrereqTech>TECH_HUNTING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_AGRICULTURE</TechType>
+      <PrereqTech>TECH_HUNTING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MYSTICISM</TechType>
+      <PrereqTech>TECH_HUNTING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ARITHMETIC</TechType>
+      <PrereqTech>TECH_HUNTING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MASONRY</TechType>
+      <PrereqTech>TECH_HUNTING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_SAILING</TechType>
+      <PrereqTech>TECH_CRAFTING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_THE_WHEEL</TechType>
+      <PrereqTech>TECH_CRAFTING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_HORSEBACK_RIDING</TechType>
+      <PrereqTech>TECH_ANIMAL_HUSBANDRY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_WRITING</TechType>
+      <PrereqTech>TECH_MYSTICISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ASTROLOGY</TechType>
+      <PrereqTech>TECH_MYSTICISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_NUMEROLOGY</TechType>
+      <PrereqTech>TECH_MYSTICISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ASTROLOGY</TechType>
+      <PrereqTech>TECH_ARITHMETIC</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_NUMEROLOGY</TechType>
+      <PrereqTech>TECH_ARITHMETIC</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_GEOMETRY</TechType>
+      <PrereqTech>TECH_ARITHMETIC</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_BRONZE_WORKING</TechType>
+      <PrereqTech>TECH_MASONRY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_CURRENCY</TechType>
+      <PrereqTech>TECH_ARITHMETIC</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_LAW</TechType>
+      <PrereqTech>TECH_WRITING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_METAPHYSICS</TechType>
+      <PrereqTech>TECH_WRITING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_METAPHYSICS</TechType>
+      <PrereqTech>TECH_ASTROLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ASSOCIATIVE_THINKING</TechType>
+      <PrereqTech>TECH_ASTROLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ASSOCIATIVE_THINKING</TechType>
+      <PrereqTech>TECH_NUMEROLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_METAPHYSICS</TechType>
+      <PrereqTech>TECH_NUMEROLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_PHBLIC_ENTERTAINMENT</TechType>
+      <PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_HYDROLOGY</TechType>
+      <PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_COLLECTIVISM</TechType>
+      <PrereqTech>TECH_LAW</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_CIVIL_SERVICE</TechType>
+      <PrereqTech>TECH_LAW</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_THEOLOGY</TechType>
+      <PrereqTech>TECH_METAPHYSICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_RITUAL</TechType>
+      <PrereqTech>TECH_COLLECTIVISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_HERBAL_MEDICINE</TechType>
+      <PrereqTech>TECH_ASSOCIATIVE_THINKING</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MACHINERY</TechType>
+      <PrereqTech>TECH_HYDROLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_METAL_CASTING</TechType>
+      <PrereqTech>TECH_HYDROLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_METAL_CASTING</TechType>
+      <PrereqTech>TECH_PHBLIC_ENTERTAINMENT</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MATHEMATIZATION</TechType>
+      <PrereqTech>TECH_EDUCATION</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_PRINTING_PRESS</TechType>
+      <PrereqTech>TECH_EDUCATION</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_QIGONG</TechType>
+      <PrereqTech>TECH_HERBAL_MEDICINE</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_GUNPOWDER</TechType>
+      <PrereqTech>TECH_MACHINERY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_SCIENTIFIC_METHOD</TechType>
+      <PrereqTech>TECH_MATHEMATIZATION</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_EXPERIMENTALISM</TechType>
+      <PrereqTech>TECH_SCIENTIFIC_METHOD</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_CALCULUS</TechType>
+      <PrereqTech>TECH_MATHEMATIZATION</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_JOURNALISM</TechType>
+      <PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_LIBERALISM</TechType>
+      <PrereqTech>TECH_PRINTING_PRESS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_SOCIAL_CONTRACT</TechType>
+      <PrereqTech>TECH_LIBERALISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ASTRONOMY</TechType>
+      <PrereqTech>TECH_EXPERIMENTALISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MECHANICS</TechType>
+      <PrereqTech>TECH_ASTRONOMY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_WAVE_THEORY</TechType>
+      <PrereqTech>TECH_ACOUSTICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MECHANICS</TechType>
+      <PrereqTech>TECH_CALCULUS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MATHEMATICAL_ANALYSIS</TechType>
+      <PrereqTech>TECH_CALCULUS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_DEMOCRACY</TechType>
+      <PrereqTech>TECH_SOCIAL_CONTRACT</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ATOMIC_THEORY</TechType>
+      <PrereqTech>TECH_CHEMISTRY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_GEOLOGY</TechType>
+      <PrereqTech>TECH_NAVIGATION</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_GEOLOGY</TechType>
+      <PrereqTech>TECH_ARCHITECTURE</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_WAVE_THEORY</TechType>
+      <PrereqTech>TECH_MECHANICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ELECTROMAGNETISM</TechType>
+      <PrereqTech>TECH_WAVE_THEORY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_BIOLOGY</TechType>
+      <PrereqTech>TECH_GEOLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FORMAL_LOGIC</TechType>
+      <PrereqTech>TECH_MATHEMATICAL_ANALYSIS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_PESTICIDES</TechType>
+      <PrereqTech>TECH_BIOLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_STATISTICS</TechType>
+      <PrereqTech>TECH_BIOLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ECOLOGY</TechType>
+      <PrereqTech>TECH_BIOLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MICROORGANISM</TechType>
+      <PrereqTech>TECH_BIOLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ELECTROMAGNETISM</TechType>
+      <PrereqTech>TECH_ELECTRICITY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_COMMUNISM</TechType>
+      <PrereqTech>TECH_DEMOCRACY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FASCISM</TechType>
+      <PrereqTech>TECH_DEMOCRACY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_EUGENTIC</TechType>
+      <PrereqTech>TECH_STATISTICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_QUANTUM_MECHANICS</TechType>
+      <PrereqTech>TECH_STATISTICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ENVIRONMENTALISM</TechType>
+      <PrereqTech>TECH_PESTICIDES</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ENVIRONMENTALISM</TechType>
+      <PrereqTech>TECH_ECOLOGY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_PENICILIN</TechType>
+      <PrereqTech>TECH_MICROORGANISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_GENETICS</TechType>
+      <PrereqTech>TECH_MICROORGANISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_RELATIVITY</TechType>
+      <PrereqTech>TECH_ELECTROMAGNETISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_RADIO</TechType>
+      <PrereqTech>TECH_ELECTROMAGNETISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ELECTRONICS</TechType>
+      <PrereqTech>TECH_ELECTROMAGNETISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_SCIENTISM</TechType>
+      <PrereqTech>TECH_COMMUNISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_COMPUTATION_THEORY</TechType>
+      <PrereqTech>TECH_FORMAL_LOGIC</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_QUANTUM_MECHANICS</TechType>
+      <PrereqTech>TECH_ATOMIC_THEORY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_GENETICS</TechType>
+      <PrereqTech>TECH_ATOMIC_THEORY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FASCISM</TechType>
+      <PrereqTech>TECH_EUGENTIC</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ENVIRONMENTALISM</TechType>
+      <PrereqTech>TECH_PESTICIDES</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_COMPUTERS</TechType>
+      <PrereqTech>TECH_ELECTRONICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MOBILE_TACTICS</TechType>
+      <PrereqTech>TECH_ENVIRONMENTALISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MOLECULAR_BIOTECH</TechType>
+      <PrereqTech>TECH_GENETICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_NUCLEAR_FISSION</TechType>
+      <PrereqTech>TECH_QUANTUM_MECHANICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_NANOTECHNOLOGY</TechType>
+      <PrereqTech>TECH_QUANTUM_MECHANICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_COMPUTERS</TechType>
+      <PrereqTech>TECH_COMPUTATION_THEORY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_ARTIFICIAL_INTELLIGENCE</TechType>
+      <PrereqTech>TECH_COMPUTATION_THEORY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_TELECOM</TechType>
+      <PrereqTech>TECH_RADAR</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_PARTICLE_PHYSICS</TechType>
+      <PrereqTech>TECH_NUCLEAR_FISSION</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_DIGITAL_CRYPTOGRAPHY</TechType>
+      <PrereqTech>TECH_INTERNET</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_SOCIAL_MEDIA</TechType>
+      <PrereqTech>TECH_INTERNET</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_SOCIAL_MEDIA</TechType>
+      <PrereqTech>TECH_GLOBALIZATION</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_POPULISM</TechType>
+      <PrereqTech>TECH_SOCIAL_MEDIA</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_QUEER_THEORY</TechType>
+      <PrereqTech>TECH_SOCIAL_MEDIA</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <PrereqTech>TECH_QUEER_THEORY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <PrereqTech>TECH_POPULISM</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <PrereqTech>TECH_DIGITAL_CRYPTOGRAPHY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <PrereqTech>TECH_MOBILE_TACTICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_NANOTECHNOLOGY</TechType>
+      <PrereqTech>TECH_MOLECULAR_BIOTECH</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_NUCLEAR_FUSION</TechType>
+      <PrereqTech>TECH_PARTICLE_PHYSICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <PrereqTech>TECH_ARTIFICIAL_INTELLIGENCE</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <PrereqTech>TECH_ADVANCED_BALLISTICS</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_FUTURE_TECH</TechType>
+      <PrereqTech>TECH_SATELLITES</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MATHEMATIZATION</TechType>
+      <PrereqTech>TECH_GEOMETRY</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_MARKET_ECONOMY</TechType>
+      <PrereqTech>TECH_INDUSTRIALIZATION</PrereqTech>
+    </Row>
+    <Row>
+      <TechType>TECH_COMMUNISM</TechType>
+      <PrereqTech>TECH_MARKET_ECONOMY</PrereqTech>
+    </Row>
+  </Technology_PrereqTechs>
+  <Technologies>
+    <Row>
+      <ID>81</ID>
+      <Type>TECH_HUNTING</Type>
+      <Description>TXT_KEY_TECH_HUNTING_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_HUNTING_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_HUNTING_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_ANCIENT</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridY>5</GridY>
+      <Quote>TXT_KEY_TECH_HUNTING_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>82</ID>
+      <Type>TECH_CRAFTING</Type>
+      <Description>TXT_KEY_TECH_CRAFTING_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_CRAFTING_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_CRAFTING_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_ANCIENT</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>1</GridX>
+      <GridY>1</GridY>
+      <Quote>TXT_KEY_TECH_CRAFTING_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>83</ID>
+      <Type>TECH_MYSTICISM</Type>
+      <Description>TXT_KEY_TECH_MYSTICISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_MYSTICISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_MYSTICISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_ANCIENT</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>1</GridX>
+      <GridY>6</GridY>
+      <Quote>TXT_KEY_TECH_MYSTICISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>84</ID>
+      <Type>TECH_ARITHMETIC</Type>
+      <Description>TXT_KEY_TECH_ARITHMETIC_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_ARITHMETIC_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_ARITHMETIC_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_ANCIENT</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>1</GridX>
+      <GridY>8</GridY>
+      <Quote>TXT_KEY_TECH_ARITHMETIC_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>85</ID>
+      <Type>TECH_ASTROLOGY</Type>
+      <Description>TXT_KEY_TECH_ASTROLOGY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_ASTROLOGY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_ASTROLOGY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_ANCIENT</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>2</GridX>
+      <GridY>5</GridY>
+      <Quote>TXT_KEY_TECH_ASTROLOGY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>86</ID>
+      <Type>TECH_NUMEROLOGY</Type>
+      <Description>TXT_KEY_TECH_NUMEROLOGY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_NUMEROLOGY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_NUMEROLOGY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_ANCIENT</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>2</GridX>
+      <GridY>6</GridY>
+      <Quote>TXT_KEY_TECH_NUMEROLOGY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>87</ID>
+      <Type>TECH_GEOMETRY</Type>
+      <Description>TXT_KEY_TECH_GEOMETRY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_GEOMETRY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_GEOMETRY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_ANCIENT</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>2</GridX>
+      <GridY>7</GridY>
+      <Quote>TXT_KEY_TECH_GEOMETRY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>88</ID>
+      <Type>TECH_LAW</Type>
+      <Description>TXT_KEY_TECH_LAW_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_LAW_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_LAW_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_CLASSICAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>3</GridX>
+      <GridY>4</GridY>
+      <Quote>TXT_KEY_TECH_LAW_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>89</ID>
+      <Type>TECH_METAPHYSICS</Type>
+      <Description>TXT_KEY_TECH_METAPHYSICS_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_METAPHYSICS_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_METAPHYSICS_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_CLASSICAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>3</GridX>
+      <GridY>5</GridY>
+      <Quote>TXT_KEY_TECH_METAPHYSICS_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>90</ID>
+      <Type>TECH_ASSOCIATIVE_THINKING</Type>
+      <Description>TXT_KEY_TECH_ASSOCIATIVE_THINKING_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_ASSOCIATIVE_THINKING_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_ASSOCIATIVE_THINKING_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_CLASSICAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>3</GridX>
+      <GridY>6</GridY>
+      <Quote>TXT_KEY_TECH_ASSOCIATIVE_THINKING_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>91</ID>
+      <Type>TECH_COLLECTIVISM</Type>
+      <Description>TXT_KEY_TECH_COLLECTIVISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_COLLECTIVISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_COLLECTIVISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_CLASSICAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>4</GridX>
+      <GridY>3</GridY>
+      <Quote>TXT_KEY_TECH_COLLECTIVISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>92</ID>
+      <Type>TECH_HYDROLOGY</Type>
+      <Description>TXT_KEY_TECH_HYDROLOGY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_HYDROLOGY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_HYDROLOGY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_CLASSICAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>5</GridX>
+      <GridY>7</GridY>
+      <Quote>TXT_KEY_TECH_HYDROLOGY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>93</ID>
+      <Type>TECH_PHBLIC_ENTERTAINMENT</Type>
+      <Description>TXT_KEY_TECH_PHBLIC_ENTERTAINMENT_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_PHBLIC_ENTERTAINMENT_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_PHBLIC_ENTERTAINMENT_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_CLASSICAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>5</GridX>
+      <GridY>8</GridY>
+      <Quote>TXT_KEY_TECH_PHBLIC_ENTERTAINMENT_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>94</ID>
+      <Type>TECH_RITUAL</Type>
+      <Description>TXT_KEY_TECH_RITUAL_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_RITUAL_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_RITUAL_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_CLASSICAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>5</GridX>
+      <GridY>2</GridY>
+      <Quote>TXT_KEY_TECH_RITUAL_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>95</ID>
+      <Type>TECH_HERBAL_MEDICINE</Type>
+      <Description>TXT_KEY_TECH_HERBAL_MEDICINE_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_HERBAL_MEDICINE_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_HERBAL_MEDICINE_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MEDIEVAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>6</GridX>
+      <GridY>3</GridY>
+      <Quote>TXT_KEY_TECH_HERBAL_MEDICINE_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>96</ID>
+      <Type>TECH_MATHEMATIZATION</Type>
+      <Description>TXT_KEY_TECH_MATHEMATIZATION_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_MATHEMATIZATION_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_MATHEMATIZATION_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MEDIEVAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>7</GridX>
+      <GridY>3</GridY>
+      <Quote>TXT_KEY_TECH_MATHEMATIZATION_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>97</ID>
+      <Type>TECH_QIGONG</Type>
+      <Description>TXT_KEY_TECH_QIGONG_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_QIGONG_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_QIGONG_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MEDIEVAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>7</GridX>
+      <GridY>4</GridY>
+      <Quote>TXT_KEY_TECH_QIGONG_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>98</ID>
+      <Type>TECH_SCIENTIFIC_METHOD</Type>
+      <Description>TXT_KEY_TECH_SCIENTIFIC_METHOD_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_SCIENTIFIC_METHOD_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_SCIENTIFIC_METHOD_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MEDIEVAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>8</GridX>
+      <GridY>3</GridY>
+      <Quote>TXT_KEY_TECH_SCIENTIFIC_METHOD_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>99</ID>
+      <Type>TECH_JOURNALISM</Type>
+      <Description>TXT_KEY_TECH_JOURNALISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_JOURNALISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_JOURNALISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MEDIEVAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>8</GridX>
+      <GridY>6</GridY>
+      <Quote>TXT_KEY_TECH_JOURNALISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>100</ID>
+      <Type>TECH_LIBERALISM</Type>
+      <Description>TXT_KEY_TECH_LIBERALISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_LIBERALISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_LIBERALISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MEDIEVAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>8</GridX>
+      <GridY>5</GridY>
+      <Quote>TXT_KEY_TECH_LIBERALISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>101</ID>
+      <Type>TECH_EXPERIMENTALISM</Type>
+      <Description>TXT_KEY_TECH_EXPERIMENTALISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_EXPERIMENTALISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_EXPERIMENTALISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MEDIEVAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>9</GridX>
+      <GridY>3</GridY>
+      <Quote>TXT_KEY_TECH_EXPERIMENTALISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>102</ID>
+      <Type>TECH_CALCULUS</Type>
+      <Description>TXT_KEY_TECH_CALCULUS_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_CALCULUS_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_CALCULUS_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_RENAISSANCE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>10</GridX>
+      <GridY>4</GridY>
+      <Quote>TXT_KEY_TECH_CALCULUS_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>103</ID>
+      <Type>TECH_SOCIAL_CONTRACT</Type>
+      <Description>TXT_KEY_TECH_SOCIAL_CONTRACT_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_SOCIAL_CONTRACT_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_SOCIAL_CONTRACT_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_RENAISSANCE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>10</GridX>
+      <GridY>5</GridY>
+      <Quote>TXT_KEY_TECH_SOCIAL_CONTRACT_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>104</ID>
+      <Type>TECH_MECHANICS</Type>
+      <Description>TXT_KEY_TECH_MECHANICS_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_MECHANICS_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_MECHANICS_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_RENAISSANCE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>11</GridX>
+      <GridY>3</GridY>
+      <Quote>TXT_KEY_TECH_MECHANICS_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>105</ID>
+      <Type>TECH_WAVE_THEORY</Type>
+      <Description>TXT_KEY_TECH_WAVE_THEORY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_WAVE_THEORY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_WAVE_THEORY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_RENAISSANCE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>12</GridX>
+      <GridY>2</GridY>
+      <Quote>TXT_KEY_TECH_WAVE_THEORY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>106</ID>
+      <Type>TECH_GEOLOGY</Type>
+      <Description>TXT_KEY_TECH_GEOLOGY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_GEOLOGY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_GEOLOGY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_INDUSTRIAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>13</GridX>
+      <Quote>TXT_KEY_TECH_GEOLOGY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>107</ID>
+      <Type>TECH_MATHEMATICAL_ANALYSIS</Type>
+      <Description>TXT_KEY_TECH_MATHEMATICAL_ANALYSIS_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_MATHEMATICAL_ANALYSIS_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_MATHEMATICAL_ANALYSIS_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_INDUSTRIAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>13</GridX>
+      <GridY>4</GridY>
+      <Quote>TXT_KEY_TECH_MATHEMATICAL_ANALYSIS_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>108</ID>
+      <Type>TECH_DEMOCRACY</Type>
+      <Description>TXT_KEY_TECH_DEMOCRACY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_DEMOCRACY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_DEMOCRACY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_INDUSTRIAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>14</GridX>
+      <GridY>5</GridY>
+      <Quote>TXT_KEY_TECH_DEMOCRACY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>109</ID>
+      <Type>TECH_STATISTICS</Type>
+      <Description>TXT_KEY_TECH_STATISTICS_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_STATISTICS_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_STATISTICS_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>15</GridX>
+      <Quote>TXT_KEY_TECH_STATISTICS_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>110</ID>
+      <Type>TECH_MICROORGANISM</Type>
+      <Description>TXT_KEY_TECH_MICROORGANISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_MICROORGANISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_MICROORGANISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>15</GridX>
+      <GridY>2</GridY>
+      <Quote>TXT_KEY_TECH_MICROORGANISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>111</ID>
+      <Type>TECH_ELECTROMAGNETISM</Type>
+      <Description>TXT_KEY_TECH_ELECTROMAGNETISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_ELECTROMAGNETISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_ELECTROMAGNETISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>15</GridX>
+      <GridY>4</GridY>
+      <Quote>TXT_KEY_TECH_ELECTROMAGNETISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>112</ID>
+      <Type>TECH_EUGENTIC</Type>
+      <Description>TXT_KEY_TECH_EUGENTIC_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_EUGENTIC_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_EUGENTIC_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>16</GridX>
+      <Quote>TXT_KEY_TECH_EUGENTIC_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>113</ID>
+      <Type>TECH_COMMUNISM</Type>
+      <Description>TXT_KEY_TECH_COMMUNISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_COMMUNISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_COMMUNISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>16</GridX>
+      <GridY>4</GridY>
+      <Quote>TXT_KEY_TECH_COMMUNISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>114</ID>
+      <Type>TECH_FORMAL_LOGIC</Type>
+      <Description>TXT_KEY_TECH_FORMAL_LOGIC_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_FORMAL_LOGIC_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_FORMAL_LOGIC_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>16</GridX>
+      <GridY>5</GridY>
+      <Quote>TXT_KEY_TECH_FORMAL_LOGIC_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>115</ID>
+      <Type>TECH_PESTICIDES</Type>
+      <Description>TXT_KEY_TECH_PESTICIDES_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_PESTICIDES_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_PESTICIDES_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_MODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>17</GridX>
+      <GridY>1</GridY>
+      <Quote>TXT_KEY_TECH_PESTICIDES_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>116</ID>
+      <Type>TECH_FASCISM</Type>
+      <Description>TXT_KEY_TECH_FASCISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_FASCISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_FASCISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_POSTMODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>18</GridX>
+      <Quote>TXT_KEY_TECH_FASCISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>117</ID>
+      <Type>TECH_ENVIRONMENTALISM</Type>
+      <Description>TXT_KEY_TECH_ENVIRONMENTALISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_ENVIRONMENTALISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_ENVIRONMENTALISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_POSTMODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>18</GridX>
+      <GridY>1</GridY>
+      <Quote>TXT_KEY_TECH_ENVIRONMENTALISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>118</ID>
+      <Type>TECH_GENETICS</Type>
+      <Description>TXT_KEY_TECH_GENETICS_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_GENETICS_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_GENETICS_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_POSTMODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>18</GridX>
+      <GridY>3</GridY>
+      <Quote>TXT_KEY_TECH_GENETICS_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>119</ID>
+      <Type>TECH_RELATIVITY</Type>
+      <Description>TXT_KEY_TECH_RELATIVITY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_RELATIVITY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_RELATIVITY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_POSTMODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>18</GridX>
+      <GridY>4</GridY>
+      <Quote>TXT_KEY_TECH_RELATIVITY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>120</ID>
+      <Type>TECH_QUANTUM_MECHANICS</Type>
+      <Description>TXT_KEY_TECH_QUANTUM_MECHANICS_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_QUANTUM_MECHANICS_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_QUANTUM_MECHANICS_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_POSTMODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>18</GridX>
+      <GridY>5</GridY>
+      <Quote>TXT_KEY_TECH_QUANTUM_MECHANICS_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>121</ID>
+      <Type>TECH_SCIENTISM</Type>
+      <Description>TXT_KEY_TECH_SCIENTISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_SCIENTISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_SCIENTISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_POSTMODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>18</GridX>
+      <GridY>6</GridY>
+      <Quote>TXT_KEY_TECH_SCIENTISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>122</ID>
+      <Type>TECH_COMPUTATION_THEORY</Type>
+      <Description>TXT_KEY_TECH_COMPUTATION_THEORY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_COMPUTATION_THEORY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_COMPUTATION_THEORY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_POSTMODERN</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>18</GridX>
+      <GridY>7</GridY>
+      <Quote>TXT_KEY_TECH_COMPUTATION_THEORY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>123</ID>
+      <Type>TECH_MOLECULAR_BIOTECH</Type>
+      <Description>TXT_KEY_TECH_MOLECULAR_BIOTECH_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_MOLECULAR_BIOTECH_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_MOLECULAR_BIOTECH_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_FUTURE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>20</GridX>
+      <GridY>2</GridY>
+      <Quote>TXT_KEY_TECH_MOLECULAR_BIOTECH_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>124</ID>
+      <Type>TECH_ARTIFICIAL_INTELLIGENCE</Type>
+      <Description>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_FUTURE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>20</GridX>
+      <GridY>4</GridY>
+      <Quote>TXT_KEY_TECH_ARTIFICIAL_INTELLIGENCE_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>125</ID>
+      <Type>TECH_DIGITAL_CRYPTOGRAPHY</Type>
+      <Description>TXT_KEY_TECH_DIGITAL_CRYPTOGRAPHY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_DIGITAL_CRYPTOGRAPHY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_DIGITAL_CRYPTOGRAPHY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_FUTURE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>22</GridX>
+      <Quote>TXT_KEY_TECH_DIGITAL_CRYPTOGRAPHY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>126</ID>
+      <Type>TECH_SOCIAL_MEDIA</Type>
+      <Description>TXT_KEY_TECH_SOCIAL_MEDIA_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_SOCIAL_MEDIA_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_SOCIAL_MEDIA_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_FUTURE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>22</GridX>
+      <GridY>1</GridY>
+      <Quote>TXT_KEY_TECH_SOCIAL_MEDIA_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>127</ID>
+      <Type>TECH_POPULISM</Type>
+      <Description>TXT_KEY_TECH_POPULISM_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_POPULISM_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_POPULISM_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_FUTURE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>23</GridX>
+      <GridY>1</GridY>
+      <Quote>TXT_KEY_TECH_POPULISM_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>128</ID>
+      <Type>TECH_QUEER_THEORY</Type>
+      <Description>TXT_KEY_TECH_QUEER_THEORY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_QUEER_THEORY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_QUEER_THEORY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_FUTURE</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>23</GridX>
+      <GridY>2</GridY>
+      <Quote>TXT_KEY_TECH_QUEER_THEORY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Row>
+      <ID>129</ID>
+      <Type>TECH_MARKET_ECONOMY</Type>
+      <Description>TXT_KEY_TECH_MARKET_ECONOMY_DESC</Description>
+      <Civilopedia>TXT_KEY_TECH_MARKET_ECONOMY_CIV</Civilopedia>
+      <Help>TXT_KEY_TECH_MARKET_ECONOMY_HELP</Help>
+      <Cost>20</Cost>
+      <AdvancedStartCost>0</AdvancedStartCost>
+      <Era>ERA_INDUSTRIAL</Era>
+      <FirstFreeUnitClass>0</FirstFreeUnitClass>
+      <Trade>1</Trade>
+      <GoodyTech>1</GoodyTech>
+      <GridX>14</GridX>
+      <GridY>4</GridY>
+      <Quote>TXT_KEY_TECH_MARKET_ECONOMY_QUOTE</Quote>
+      <PortraitIndex>0</PortraitIndex>
+      <ScenarioTechButton>0</ScenarioTechButton>
+      <IconAtlas>TECH_ATLAS_1</IconAtlas>
+      <AudioIntro>AS2D_TECH_AGRICULTURE</AudioIntro>
+      <AudioIntroHeader>AS2D_HEADING_TECH_AGRICULTURE</AudioIntroHeader>
+    </Row>
+    <Update>
+      <Set GridX="1" />
+      <Where Type="TECH_AGRICULTURE" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_POTTERY_DESC" Civilopedia="TXT_KEY_TECH_POTTERY_CIV" GridY="8" />
+      <Where Type="TECH_POTTERY" />
+    </Update>
+    <Update>
+      <Set GridY="3" />
+      <Where Type="TECH_ANIMAL_HUSBANDRY" />
+    </Update>
+    <Update>
+      <Set GridY="8" />
+      <Where Type="TECH_ARCHERY" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_CALENDAR_DESC" Civilopedia="TXT_KEY_TECH_CALENDAR_CIV" GridX="1" GridY="8" />
+      <Where Type="TECH_CALENDAR" />
+    </Update>
+    <Update>
+      <Set GridY="4" />
+      <Where Type="TECH_WRITING" />
+    </Update>
+    <Update>
+      <Set GridX="1" GridY="8" />
+      <Where Type="TECH_TRAPPING" />
+    </Update>
+    <Update>
+      <Set GridY="2" />
+      <Where Type="TECH_THE_WHEEL" />
+    </Update>
+    <Update>
+      <Set GridX="1" GridY="9" />
+      <Where Type="TECH_MASONRY" />
+    </Update>
+    <Update>
+      <Set GridY="2" />
+      <Where Type="TECH_HORSEBACK_RIDING" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_MATHEMATICS_DESC" Civilopedia="TXT_KEY_TECH_MATHEMATICS_CIV" Era="ERA_ANCIENT" GridX="1" GridY="8" />
+      <Where Type="TECH_MATHEMATICS" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_CONSTRUCTION_DESC" Civilopedia="TXT_KEY_TECH_CONSTRUCTION_CIV" Era="ERA_ANCIENT" GridX="1" />
+      <Where Type="TECH_CONSTRUCTION" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_PHILOSOPHY_DESC" Civilopedia="TXT_KEY_TECH_PHILOSOPHY_CIV" Era="ERA_ANCIENT" GridX="1" GridY="8" />
+      <Where Type="TECH_PHILOSOPHY" />
+    </Update>
+    <Update>
+      <Set GridX="3" GridY="3" />
+      <Where Type="TECH_DRAMA" />
+    </Update>
+    <Update>
+      <Set GridX="3" GridY="8" />
+      <Where Type="TECH_CURRENCY" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_ENGINEERING_DESC" Civilopedia="TXT_KEY_TECH_ENGINEERING_CIV" Era="ERA_ANCIENT" InternationalTradeRoutesChange="0" BridgeBuilding="false" GridX="1" GridY="8" />
+      <Where Type="TECH_ENGINEERING" />
+    </Update>
+    <Update>
+      <Set GridX="5" />
+      <Where Type="TECH_IRON_WORKING" />
+    </Update>
+    <Update>
+      <Set Era="ERA_CLASSICAL" GridX="4" GridY="5" />
+      <Where Type="TECH_THEOLOGY" />
+    </Update>
+    <Update>
+      <Set Era="ERA_CLASSICAL" GridX="4" />
+      <Where Type="TECH_CIVIL_SERVICE" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_GUILDS_DESC" Civilopedia="TXT_KEY_TECH_GUILDS_CIV" GridX="6" GridY="5" />
+      <Where Type="TECH_GUILDS" />
+    </Update>
+    <Update>
+      <Set InternationalTradeRoutesChange="1" BridgeBuilding="true" GridX="6" GridY="9" />
+      <Where Type="TECH_METAL_CASTING" />
+    </Update>
+    <Update>
+      <Set GridX="7" />
+      <Where Type="TECH_CHIVALRY" />
+    </Update>
+    <Update>
+      <Set GridY="6" />
+      <Where Type="TECH_MACHINERY" />
+    </Update>
+    <Update>
+      <Set Era="ERA_ANCIENT" GridX="1"/>
+      <Where Type="TECH_PHYSICS" />
+    </Update>
+    <Update>
+      <Set GridX="7" />
+      <Where Type="TECH_STEEL" />
+    </Update>
+    <Update>
+      <Set GridX="10" GridY="0" />
+      <Where Type="TECH_ASTRONOMY" />
+    </Update>
+    <Update>
+      <Set GridX="10" GridY="1" />
+      <Where Type="TECH_ACOUSTICS" />
+    </Update>
+    <Update>
+      <Set GridX="10" GridY="2" />
+      <Where Type="TECH_BANKING" />
+    </Update>
+    <Update>
+      <Set Era="ERA_MEDIEVAL" />
+      <Where Type="TECH_PRINTING_PRESS" />
+    </Update>
+    <Update>
+      <Set Era="ERA_MEDIEVAL" GridX="8" GridY="8" />
+      <Where Type="TECH_GUNPOWDER" />
+    </Update>
+    <Update>
+      <Set GridX="11" GridY="0" />
+      <Where Type="TECH_NAVIGATION" />
+    </Update>
+    <Update>
+      <Set GridX="11" GridY="1" />
+      <Where Type="TECH_ARCHITECTURE" />
+    </Update>
+    <Update>
+      <Set GridX="11" GridY="6" />
+      <Where Type="TECH_ECONOMICS" />
+    </Update>
+    <Update>
+      <Set GridX="10" GridY="7" />
+      <Where Type="TECH_METALLURGY" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_CHEMISTRY_DESC" Civilopedia="TXT_KEY_TECH_CHEMISTRY_CIV" GridX="10" GridY="8" />
+      <Where Type="TECH_CHEMISTRY" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_ARCHAEOLOGY_DESC" Civilopedia="TXT_KEY_TECH_ARCHAEOLOGY_CIV" Era="ERA_ANCIENT" GridX="1" GridY="8" />
+      <Where Type="TECH_ARCHAEOLOGY" />
+    </Update>
+    <Update>
+      <Set GridX="13" GridY="2" />
+      <Where Type="TECH_SCIENTIFIC_THEORY" />
+    </Update>
+    <Update>
+      <Set GridX="13" GridY="3" />
+      <Where Type="TECH_INDUSTRIALIZATION" />
+    </Update>
+    <Update>
+      <Set GridX="13" GridY="7" />
+      <Where Type="TECH_RIFLING" />
+    </Update>
+    <Update>
+      <Set GridX="13" />
+      <Where Type="TECH_MILITARY_SCIENCE" />
+    </Update>
+    <Update>
+      <Set GridX="13" />
+      <Where Type="TECH_FERTILIZER" />
+    </Update>
+    <Update>
+      <Set GridX="14" />
+      <Where Type="TECH_BIOLOGY" />
+    </Update>
+    <Update>
+      <Set GridX="14" />
+      <Where Type="TECH_ELECTRICITY" />
+    </Update>
+    <Update>
+      <Set GridX="14" GridY="3" />
+      <Where Type="TECH_STEAM_POWER" />
+    </Update>
+    <Update>
+      <Set GridX="14" GridY="7" />
+      <Where Type="TECH_DYNAMITE" />
+    </Update>
+    <Update>
+      <Set GridX="15" GridY="3" />
+      <Where Type="TECH_REFRIGERATION" />
+    </Update>
+    <Update>
+      <Set GridX="16" GridY="3" />
+      <Where Type="TECH_RADIO" />
+    </Update>
+    <Update>
+      <Set GridX="15" GridY="6" />
+      <Where Type="TECH_REPLACEABLE_PARTS" />
+    </Update>
+    <Update>
+      <Set GridX="15" GridY="7" />
+      <Where Type="TECH_FLIGHT" />
+    </Update>
+    <Update>
+      <Set GridX="15" GridY="8" />
+      <Where Type="TECH_RAILROAD" />
+    </Update>
+    <Update>
+      <Set GridX="17" GridY="4" />
+      <Where Type="TECH_PLASTIC" />
+    </Update>
+    <Update>
+      <Set GridX="16" GridY="6" />
+      <Where Type="TECH_ELECTRONICS" />
+    </Update>
+    <Update>
+      <Set GridX="16" GridY="7" />
+      <Where Type="TECH_BALLISTICS" />
+    </Update>
+    <Update>
+      <Set GridX="16" GridY="8" />
+      <Where Type="TECH_COMBUSTION" />
+    </Update>
+    <Update>
+      <Set GridX="18" GridY="2" />
+      <Where Type="TECH_PENICILIN" />
+    </Update>
+    <Update>
+      <Set Era="ERA_MODERN" GridX="15" GridY="9" />
+      <Where Type="TECH_ATOMIC_THEORY" />
+    </Update>
+    <Update>
+      <Set GridX="18" GridY="8" />
+      <Where Type="TECH_RADAR" />
+    </Update>
+    <Update>
+      <Set GridX="18" GridY="9" />
+      <Where Type="TECH_COMBINED_ARMS" />
+    </Update>
+    <Update>
+      <Set Era="ERA_MODERN" GridX="15" />
+      <Where Type="TECH_ECOLOGY" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_NUCLEAR_FISSION_DESC" Civilopedia="TXT_KEY_TECH_NUCLEAR_FISSION_CIV" GridX="19" GridY="5" />
+      <Where Type="TECH_NUCLEAR_FISSION" />
+    </Update>
+    <Update>
+      <Set GridX="19" GridY="8" />
+      <Where Type="TECH_ROCKETRY" />
+    </Update>
+    <Update>
+      <Set GridX="19" GridY="9" />
+      <Where Type="TECH_COMPUTERS" />
+    </Update>
+    <Update>
+      <Set GridX="20" GridY="0" />
+      <Where Type="TECH_TELECOM" />
+    </Update>
+    <Update>
+      <Set GridX="20" GridY="1" />
+      <Where Type="TECH_MOBILE_TACTICS" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_ADVANCED_BALLISTICS_DESC" Civilopedia="TXT_KEY_TECH_ADVANCED_BALLISTICS_CIV" GridX="20" GridY="6" />
+      <Where Type="TECH_ADVANCED_BALLISTICS" />
+    </Update>
+    <Update>
+      <Set GridX="20" GridY="7" />
+      <Where Type="TECH_SATELLITES" />
+    </Update>
+    <Update>
+      <Set GridX="20" GridY="8" />
+      <Where Type="TECH_ROBOTICS" />
+    </Update>
+    <Update>
+      <Set GridX="20" GridY="9" />
+      <Where Type="TECH_LASERS" />
+    </Update>
+    <Update>
+      <Set GridX="21" />
+      <Where Type="TECH_INTERNET" />
+    </Update>
+    <Update>
+      <Set GridX="21" />
+      <Where Type="TECH_GLOBALIZATION" />
+    </Update>
+    <Update>
+      <Set GridX="20" GridY="3" />
+      <Where Type="TECH_PARTICLE_PHYSICS" />
+    </Update>
+    <Update>
+      <Set GridX="21" GridY="6" />
+      <Where Type="TECH_NUCLEAR_FUSION" />
+    </Update>
+    <Update>
+      <Set GridX="21" GridY="4" />
+      <Where Type="TECH_NANOTECHNOLOGY" />
+    </Update>
+    <Update>
+      <Set GridX="21" GridY="8" />
+      <Where Type="TECH_STEALTH" />
+    </Update>
+    <Update>
+      <Set Description="TXT_KEY_TECH_FUTURE_TECH_DESC" Civilopedia="TXT_KEY_TECH_FUTURE_TECH_CIV" GridX="24" />
+      <Where Type="TECH_FUTURE_TECH" />
+    </Update>
+  </Technologies>
+</GameData>

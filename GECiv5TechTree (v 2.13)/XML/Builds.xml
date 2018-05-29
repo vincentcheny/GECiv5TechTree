@@ -1,0 +1,44 @@
+<GameData>
+  <Builds>
+    <Update>
+      <Set PrereqTech="TECH_GEOLOGY" />
+      <Where Type="BUILD_ARCHAEOLOGY_DIG" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_MASONRY" />
+      <Where Type="BUILD_MINE" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_IRON_WORKING" />
+      <Where Type="BUILD_LUMBERMILL" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_HUNTING" />
+      <Where Type="BUILD_CAMP" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_ARITHMETIC" />
+      <Where Type="BUILD_PLANTATION" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_METAL_CASTING" />
+      <Where Type="BUILD_FORT" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_MASONRY" />
+      <Where Type="BUILD_REMOVE_FOREST" />
+    </Update>
+    <Update>
+      <Set ID="32" />
+      <Where Type="BUILD_POLDER" />
+    </Update>
+    <Update>
+      <Set ID="33" PrereqTech="TECH_IRON_WORKING" />
+      <Where Type="BUILD_TERRACE_FARM" />
+    </Update>
+    <Update>
+      <Set ID="34" PrereqTech="TECH_IRON_WORKING" />
+      <Where Type="BUILD_MOAI" />
+    </Update>
+  </Builds>
+</GameData>

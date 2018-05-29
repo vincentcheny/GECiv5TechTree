@@ -1,0 +1,176 @@
+<GameData>
+  <Buildings>
+    <Update>
+      <Set PrereqTech="TECH_NUMEROLOGY" />
+      <Where Type="BUILDING_COURTHOUSE" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_ASSOCIATIVE_THINKING" />
+      <Where Type="BUILDING_MUD_PYRAMID_MOSQUE" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_ASSOCIATIVE_THINKING" />
+      <Where Type="BUILDING_BURIAL_TOMB" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_HUNTING" />
+      <Where Type="BUILDING_CIRCUS" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_IRON_WORKING" />
+      <Where Type="BUILDING_COLOSSEUM" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_ASSOCIATIVE_THINKING" />
+      <Where Type="BUILDING_TEMPLE" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_GEOLOGY" />
+      <Where Type="BUILDING_MUSEUM" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_MASONRY" />
+      <Where Type="BUILDING_GRANARY" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_ASSOCIATIVE_THINKING" />
+      <Where Type="BUILDING_NATIONAL_COLLEGE" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_ARITHMETIC" />
+      <Where Type="BUILDING_STONEHENGE" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_ASSOCIATIVE_THINKING" />
+      <Where Type="BUILDING_ORACLE" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_NUMEROLOGY" />
+      <Where Type="BUILDING_HANGING_GARDEN" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_METAL_CASTING" />
+      <Where Type="BUILDING_GREAT_WALL" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_SCIENTIFIC_METHOD" />
+      <Where Type="BUILDING_NOTRE_DAME" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_GEOLOGY" />
+      <Where Type="BUILDING_LOUVRE" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_METAL_CASTING" />
+      <Where Type="BUILDING_AQUEDUCT" />
+    </Update>
+    <Update>
+      <Set PrereqTech="TECH_ARITHMETIC" />
+      <Where Type="BUILDING_STONE_WORKS" />
+    </Update>
+    <Update>
+      <Set ID="115" PrereqTech="TECH_HUNTING" />
+      <Where Type="BUILDING_TEMPLE_ARTEMIS" />
+    </Update>
+    <Update>
+      <Set ID="116" />
+      <Where Type="BUILDING_MAUSOLEUM_HALICARNASSUS" />
+    </Update>
+    <Update>
+      <Set ID="117" />
+      <Where Type="BUILDING_AMPHITHEATER" />
+    </Update>
+    <Update>
+      <Set ID="118" PrereqTech="TECH_MASONRY" />
+      <Where Type="BUILDING_SHRINE" />
+    </Update>
+    <Update>
+      <Set ID="119" />
+      <Where Type="BUILDING_RECYCLING_CENTER" />
+    </Update>
+    <Update>
+      <Set ID="120" />
+      <Where Type="BUILDING_BOMB_SHELTER" />
+    </Update>
+    <Update>
+      <Set ID="121" />
+      <Where Type="BUILDING_CONSTABLE" />
+    </Update>
+    <Update>
+      <Set ID="122" />
+      <Where Type="BUILDING_POLICE_STATION" />
+    </Update>
+    <Update>
+      <Set ID="123" />
+      <Where Type="BUILDING_INTELLIGENCE_AGENCY" />
+    </Update>
+    <Update>
+      <Set ID="124" />
+      <Where Type="BUILDING_ALHAMBRA" />
+    </Update>
+    <Update>
+      <Set ID="125" />
+      <Where Type="BUILDING_CN_TOWER" />
+    </Update>
+    <Update>
+      <Set ID="126" />
+      <Where Type="BUILDING_HUBBLE" />
+    </Update>
+    <Update>
+      <Set ID="127" />
+      <Where Type="BUILDING_LEANING_TOWER" />
+    </Update>
+    <Update>
+      <Set ID="128" />
+      <Where Type="BUILDING_MOSQUE_OF_DJENNE" />
+    </Update>
+    <Update>
+      <Set ID="129" />
+      <Where Type="BUILDING_NEUSCHWANSTEIN" />
+    </Update>
+    <Update>
+      <Set ID="130" />
+      <Where Type="BUILDING_PETRA" />
+    </Update>
+    <Update>
+      <Set ID="131" PrereqTech="TECH_IRON_WORKING" />
+      <Where Type="BUILDING_TERRACOTTA_ARMY" />
+    </Update>
+    <Update>
+      <Set ID="132" />
+      <Where Type="BUILDING_GREAT_FIREWALL" />
+    </Update>
+    <Update>
+      <Set ID="133" />
+      <Where Type="BUILDING_CATHEDRAL" />
+    </Update>
+    <Update>
+      <Set ID="134" />
+      <Where Type="BUILDING_MOSQUE" />
+    </Update>
+    <Update>
+      <Set ID="135" />
+      <Where Type="BUILDING_PAGODA" />
+    </Update>
+    <Update>
+      <Set ID="136" />
+      <Where Type="BUILDING_CEILIDH_HALL" />
+    </Update>
+    <Update>
+      <Set ID="137" />
+      <Where Type="BUILDING_COFFEE_HOUSE" />
+    </Update>
+    <Update>
+      <Set ID="138" />
+      <Where Type="BUILDING_STELE" />
+    </Update>
+    <Update>
+      <Set ID="139" PrereqTech="TECH_MASONRY" />
+      <Where Type="BUILDING_MAYA_PYRAMID" />
+    </Update>
+    <Update>
+      <Set ID="140" />
+      <Where Type="BUILDING_GRAND_TEMPLE" />
+    </Update>
+  </Buildings>
+</GameData>

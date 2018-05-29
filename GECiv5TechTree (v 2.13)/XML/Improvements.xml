@@ -1,0 +1,8 @@
+<GameData>
+  <Improvements>
+    <Update>
+      <Set ID="28" />
+      <Where Type="IMPROVEMENT_POLDER" />
+    </Update>
+  </Improvements>
+</GameData>
